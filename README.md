@@ -4,16 +4,16 @@
 - **Objetivo**: atividade avaliativa com conceitos básicos de react (jsx, props, state e eventos)
 - **Público alvo**: alunos da disciplina de [POS](https://github.com/infoweb-pos/) do curso de [Infoweb](https://diatinf.ifrn.edu.br/cursos/tecnico-em-informatica-para-internet/) na [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
-- **Aluno**: FIXME
+- **Aluno**: Gabriel Carrilho da Silva
 
 ## Checklist
-- [ ] 1. Fork desse repositório
-- [ ] 2. Colocar o nome nesse arquivo `README.md`
-- [ ] 3. Clonar o repositório remoto na máquina local ou criar um _codespace_
-- [ ] 4. Criar um projeto nextjs
-- [ ] 5. Importar bibliotecas e lançar aplicação web
-- [ ] 6. Montar uma página de pesquisa de produtos
-- [ ] 7. Publicar o resultado no Github
+- [X] 1. Fork desse repositório
+- [X] 2. Colocar o nome nesse arquivo `README.md`
+- [X] 3. Clonar o repositório remoto na máquina local ou criar um _codespace_
+- [X] 4. Criar um projeto nextjs
+- [X] 5. Importar bibliotecas e lançar aplicação web
+- [X] 6. Montar uma página de pesquisa de produtos
+- [X] 7. Publicar o resultado no Github
 
 ---
 
